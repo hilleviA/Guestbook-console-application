@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RV7nWe8EjWpMLcgGZZDcGWxX+PeEIDCfHC3yMjyP4sCQVROZsylyJMaTkuDmY8V+TMs+pHmfmJS5wwTfub3sTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hillevi Annfält\\Desktop\\MIUN\\C#\\Moment 3\\Guestbook\\GuestBook\\GuestBook\\GuestBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hillevi Annfält\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
